@@ -23,7 +23,7 @@ To get started with the Alias Generator, follow these steps:
     ```
 2. Navigate to the project directory:
 ```bash
-cd alias_genrator
+    cd alias_genrator
 ```
 3.  Run the script
     ```
